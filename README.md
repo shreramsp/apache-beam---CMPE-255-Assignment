@@ -4,7 +4,7 @@
 Demonstrate core Apache Beam features on a small clickstream sample: **pipeline I/O, Map, Filter, ParDo (with side output), composite transform, partition, windowing** (fixed windows, event time).
 
 **Demo video**  
-▶️ [YouTube – walkthrough]([https://youtu.be/GkJHZx0rGlc)
+▶️ https://youtu.be/GkJHZx0rGlc
 
 ---
 
